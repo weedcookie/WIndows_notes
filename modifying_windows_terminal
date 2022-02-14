@@ -43,3 +43,6 @@ https://superuser.com/questions/1505610/msys-shell-in-windows-terminal-preview
         ]
 
 ```
+
+
+to generate a new GUID   type ```  New-Guid  ```
